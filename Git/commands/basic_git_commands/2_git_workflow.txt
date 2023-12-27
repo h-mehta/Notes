@@ -1,0 +1,39 @@
+
+WorkFlow:
+--------
+
+
+	.------	 Working Directory
+	|
+	|	
+	v
+     git add
+	|
+	|
+	*------> Staging Area ----------.
+				       	|
+					|
+					v
+				    git commit
+					|
+					|
+		 Repository	<-------* 
+
+
+
+
+Why do we need the staging area?
+
+Let's say I have worked on some stuff, have deleted a few files,
+modified a few of them and created a few of them.
+
+All these changes need not be interlinked
+
+So I can make logical groupings of each commit - by adding/grouping specific 
+changes together, in preprartion of commiting
+
+Thus 2 steps:
+- git add (to add all the changes I want to add the logical grouping)
+- git commit (to commit the logical grouping with messages & create CHECKPOINT)
+
+ 

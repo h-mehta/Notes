@@ -1,0 +1,19 @@
+
+Git commit:
+-----------
+
+We use git commit to actually commit the changes from the 
+staging area to the repository
+
+When we make a commit, we need to provide a commit message
+that summarizes the changes and work snapshotted in the 
+commit
+
+Command:
+-------
+
+> git commit -m "message"
+
+Commits all the staged changes
+
+

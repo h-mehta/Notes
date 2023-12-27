@@ -1,0 +1,25 @@
+
+# To check the changes to the repo:
+
+git status
+
+# Comments:
+# This should list all the changes to the repo or 
+# otherwise show the differencesin between 
+# commited repo and uncommited files
+
+# To create a new git repo,
+# Use git init
+# We must initialise a git repo before anything!
+# Done **only once** per project
+# Initialise teh repo in the top-level folder
+# containing the project
+
+git init 
+
+# Equivalent of parent folder where whole project resides
+
+
+
+
+

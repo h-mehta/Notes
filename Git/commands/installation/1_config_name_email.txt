@@ -1,0 +1,19 @@
+
+# To check the Git name:
+
+git config user.name
+
+# To set the Git name:
+
+git config --global user.name "Harshit Mehta"
+
+# To check git email:
+
+git config user.email
+
+# To set git email:
+
+git config --global user.email harshit@gmail.com
+
+
+

@@ -1,0 +1,12 @@
+
+Git Add:
+
+Use git add to add specific files to the staging area.
+Seprarate files with spaces to add multiple at once
+
+# Command :
+
+git add file1 file2
+ 
+
+
