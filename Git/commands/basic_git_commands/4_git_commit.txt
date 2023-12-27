@@ -16,4 +16,3 @@ Command:
 
 Commits all the staged changes
 
-
