@@ -22,9 +22,3 @@ Alternatively,
 > git branch 
 
 Will show all the existing branches and marks the current branch with *
-
-Alternatively,
-
-> git status
-
-This will also speicfy the current branch we are working on
