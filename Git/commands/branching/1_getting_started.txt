@@ -1,0 +1,30 @@
+To view all the branches:
+
+> git branch
+
+To create a new branch:
+
+> git branch <branch_name>
+
+To switch to a new branch:
+
+> git switch <branch_name>
+
+To check which branch you are on...
+do:
+
+> git log
+
+HEAD points to the current branch
+
+Alternatively,
+
+> git branch 
+
+Will show all the existing branches and marks the current branch with *
+
+Alternatively,
+
+> git status
+
+This will also speicfy the current branch we are working on
